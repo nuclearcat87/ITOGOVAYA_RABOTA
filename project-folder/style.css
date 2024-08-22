@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+nav.navbar {
+  background-color: #343a40;
+}
+
+nav.navbar .nav-link {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+nav.navbar .nav-link:hover {
+  color: #ced4da;
+}
+
+h2 {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.welcome-section {
+  background-image: url('path-to-your-image.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  text-align: center;
+  color: gray;
+}
+
+.welcome-section h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.welcome-section p {
+  font-size: 1.5em;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+footer {
+  background-color: #343a40;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
